@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 cd /opt
 wget https://github.com/prometheus/prometheus/releases/download/v3.4.2/prometheus-3.4.2.linux-amd64.tar.gz
 mv prometheus-3.4.2.linux-amd64.tar.gz prometheus
